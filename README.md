@@ -6,6 +6,18 @@ I'm an experienced Computing Science graduate with over 12 years of hands-on exp
 
 With a strong foundation in both front-end and back-end technologies, I've honed my skills in a variety of programming languages and frameworks:
 
+### Web3 & Blockchain (New)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
+### AI/ML (New)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6600?style=flat-square&logo=artificial-intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6600?style=flat-square&logo=machine-learning&logoColor=white)
+
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)
@@ -31,10 +43,6 @@ With a strong foundation in both front-end and back-end technologies, I've honed
 ### Web Services
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
 ![XSLT](https://img.shields.io/badge/XSLT-004080?style=flat-square&logo=xslt&logoColor=white)
-
-### AI & Machine Learning
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6600?style=flat-square&logo=artificial-intelligence&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6600?style=flat-square&logo=machine-learning&logoColor=white)
 
 ### Other Technologies
 ![Payment Gateways](https://img.shields.io/badge/Payment_Gateways-0070BA?style=flat-square&logo=paypal&logoColor=white)
