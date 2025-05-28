@@ -62,6 +62,9 @@ With a strong foundation in both front-end and back-end technologies, I've honed
 
 Here are a few highlights of the projects I've worked on:
 
+- Developed **Web3 applications** with Ethereum smart contracts
+- Built **AI-powered chatbots** using LLM technologies
+- Created **enterprise web applications** with Laravel/PHP stack
 - **Web and Mobile Applications**: Designed and developed scalable applications with a focus on performance and user experience.
 - **API Integrations**: Integrated various APIs from Google, Facebook, Twitter, and more to enhance functionality.
 - **Payment and SMS Gateways**: Implemented secure and efficient payment and SMS gateways for seamless transactions.
@@ -70,6 +73,7 @@ Here are a few highlights of the projects I've worked on:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me:
 
+- **WhatsApp**: [+1 415 800 3179](https://wa.me/14158003179)
 - **Email**: [webumer@gmail.com](mailto:webumer@gmail.com)
 - **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/umer-suleman-a111072a/)
 
