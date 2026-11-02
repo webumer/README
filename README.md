@@ -73,9 +73,8 @@ Here are a few highlights of the projects I've worked on:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me:
 
-- **WhatsApp**: [+1 415 800 3179](https://wa.me/14158003179)
 - **Email**: [webumer@gmail.com](mailto:webumer@gmail.com)
-- **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/umer-suleman-a111072a/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/umer-sulman/)
 
 
 Let's build something amazing together!
